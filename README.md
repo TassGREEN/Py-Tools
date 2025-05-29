@@ -1,4 +1,4 @@
-# Py-Tools
+# Py-Tools 用于跳过录入不能粘贴的限制
 Some tool maybe useful( Python mosty)
 # 我的学习通打字助手
 
