@@ -1,2 +1,17 @@
 # Py-Tools
 Some tool maybe useful( Python mosty)
+# 我的学习通打字助手
+
+这是一个模拟手打输入的 Python 工具，用于绕过学习通等类似网页禁止粘贴的限制。
+
+## 使用方法
+
+1. 安装依赖：`pip install pyautogui`
+2. 准备 `input.txt` 文件
+3. 运行脚本并手动点击文本框
+4. 等待自动输入完成
+
+## 注意事项
+
+- 需要切换为英文输入法
+- 输入速度不要太快，避免被检测
