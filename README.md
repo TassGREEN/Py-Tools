@@ -15,3 +15,4 @@ Some tool maybe useful( Python mosty)
 
 - 需要切换为英文输入法
 - 输入速度不要太快，避免被检测
+- 录入.py是原始代码，gui.py是使用gui达到可视化，更方便
