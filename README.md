@@ -7,9 +7,8 @@ Some tool maybe useful( Python mosty)
 ## 使用方法
 
 1. 安装相关依赖：time keyboard
-2. 准备 `input.txt` 文件（放置在同一文件夹下）
-3. 运行脚本并手动点击文本框
-4. 等待自动输入完成
+2. 运行脚本
+3. 等待自动输入完成
 
 ## 注意事项
 
